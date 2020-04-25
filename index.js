@@ -1,4 +1,3 @@
-
 function Info(props){
     let text='a text-'+props.man.colorer
     return(
