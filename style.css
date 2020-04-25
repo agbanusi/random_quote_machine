@@ -1,0 +1,50 @@
+.container-fluid{
+    min-height:100vh;
+    margin:0px;
+    padding-top:75px;    
+}
+.box{
+    height:6fr;
+    margin-left:auto;
+    margin-right:auto;
+    width:40vw;
+    background-color:white;
+    border-radius:2.5%; 
+}
+b{
+   font-size: 25px; 
+}
+main{
+    padding: 20px;   
+}
+.b{
+    display:flex;
+    align-content: flex-end;
+    font-weight: 700;
+    text-align: center;
+    width:100%;
+    padding-top:10px;
+}
+.a{
+    font-size: 20px;
+    font-weight: 500;
+}
+.end{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.fab{
+    color:white;
+}
+.link{
+    color:white;
+    text-decoration: none;
+}
+.last{
+    width:100%;
+    text-align:center;
+    color:white;
+    padding: 30px;
+}
