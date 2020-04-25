@@ -1,3 +1,6 @@
+import React from 'react.development'
+import ReactDOM from 'react-dom.development'
+
 function Info(props){
     let text='a text-'+props.man.colorer
     return(
